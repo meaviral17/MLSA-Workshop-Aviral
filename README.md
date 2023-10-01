@@ -40,8 +40,6 @@ To set up a GitHub account, follow these steps:
 - [Part 1: Working with a Local Repository](./local-git.md)
 - [Part 2: Working with Remotes](./remote-github.md)
 
-## Feedback
 
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
+## Hope you guys had a great time learning!
 
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
