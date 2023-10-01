@@ -7,8 +7,6 @@ Git tracks changes in your source code, enables versioning, and supports non-lin
 1. On your local machine, create a new empty folder.
 2. Right-click inside the folder and select **Git Bash Here** from the options.
 
-    ![Git Bash Here Screenhot](./images/git-bash-here.png)
-
 3. Inside git bash, execute the following command to initialize a Git repository
    
     ```bash
