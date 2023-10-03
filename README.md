@@ -42,4 +42,5 @@ To set up a GitHub account, follow these steps:
 
 
 ## Hope you guys had a great time learning!
+## Credits to [Microsoft!](https://github.com/microsoft)
 
